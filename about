@@ -1,0 +1,45 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Palden Gadhen Nima — About</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      color: #111;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h1, h2 {
+      color: #1e40af;
+    }
+
+    a.nav {
+      display: inline-block;
+      margin: 10px 0;
+      padding: 8px 14px;
+      background: #1e40af;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    a.nav:hover {
+      background: #2563eb;
+    }
+  </style>
+</head>
+<body>
+  <h1>About Me</h1>
+  <a class="nav" href="index.html">&larr; Back to Home</a>
+
+  <p>I am a student at the Royal Academy. I enjoy creative, hands-on work and learning new techniques, currently focused on sculpting. This website is a simple portfolio to showcase my projects, skills, interests, and hobbies. Over time, I will add images and more details as my work progresses.</p>
+</body>
+</html>
