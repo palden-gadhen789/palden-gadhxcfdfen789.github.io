@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Palden Gadhen Nima — Hobbies</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      color: #111;
+      line-height: 1.6;
+      padding: 20px;
+      max-width: 900px;
+      margin-left: auto;
+      margin-right: auto;
+    }
+
+    h1, h2 {
+      color: #1e40af;
+    }
+
+    a.nav {
+      display: inline-block;
+      margin: 10px 0;
+      padding: 8px 14px;
+      background: #1e40af;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+    }
+
+    a.nav:hover {
+      background: #2563eb;
+    }
+
+    .hobby {
+      background: white;
+      padding: 15px;
+      margin: 15px 0;
+      border-radius: 8px;
+      box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    }
+  </style>
+</head>
+<body>
+  <h1>Hobbies</h1>
+  <a class="nav" href="index.html">&larr; Back to Home</a>
+
+  <div class="hobby">Practicing sculpting techniques</div>
+  <div class="hobby">Playing sports</div>
+  <div class="hobby">Reading books</div>
+</body>
+</html>
