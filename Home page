@@ -1,0 +1,50 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Palden Gadhen Nima — Home</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: Arial, sans-serif;
+      background: #f9fafb;
+      color: #111;
+      line-height: 1.6;
+      display: flex;
+      flex-direction: column;
+      align-items: center;
+      justify-content: center;
+      min-height: 100vh;
+      text-align: center;
+    }
+
+    a.button {
+      display: inline-block;
+      margin: 10px;
+      padding: 10px 20px;
+      background: #1e40af;
+      color: white;
+      text-decoration: none;
+      border-radius: 6px;
+      font-weight: bold;
+    }
+
+    a.button:hover {
+      background: #2563eb;
+    }
+  </style>
+</head>
+<body>
+  <h1>Welcome to Palden Gadhen Nima's Portfolio</h1>
+  <p>I am a student at the Royal Academy. Explore my projects, skills, interests, and hobbies.</p>
+
+  <div>
+    <a class="button" href="projects.html">Projects</a>
+    <a class="button" href="skills.html">Skills</a>
+    <a class="button" href="interests.html">My Interests</a>
+    <a class="button" href="hobbies.html">Hobbies</a>
+    <a class="button" href="about.html">About</a>
+  </div>
+</body>
+</html>
